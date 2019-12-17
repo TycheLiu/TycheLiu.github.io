@@ -1,0 +1,15 @@
+
+/*@font-face {*/
+    /*font-family: 'HYYouYuanTiW-2';*/
+    /*src: url('../fonts/HYYouYuanTiW-2.ttf?v=4.0.3');*/
+    /*src: url('../fonts/HYYouYuanTiW-2.ttf?#iefix&v=4.0.3') format('embedded-opentype'), url('../fonts/HYYouYuanTiW-2.ttf?v=4.0.3') format('ttf'), url('../fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');*/
+    /*font-weight: normal;*/
+    /*font-style: normal;*/
+
+/*}*/
+@font-face {
+    font-family: 'HYYouYuanTiW-2';
+    src: url('../fonts/HYYouYuanTiW-2.ttf?');
+    font-weight: normal;
+    font-style: normal;
+}
